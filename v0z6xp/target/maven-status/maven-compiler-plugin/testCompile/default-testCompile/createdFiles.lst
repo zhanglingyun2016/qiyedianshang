@@ -1,0 +1,8 @@
+com\mmall\test\Base64GroupTest.class
+com\mmall\hengxiang\Hengxiang.class
+com\mmall\dao\test\CategoryDaoTest.class
+com\mmall\service\test\ProductServiceTest.class
+com\mmall\service\test\ShippingServiceTest.class
+com\mmall\dao\test\DaoTest.class
+com\mmall\test\BigDecimalTest.class
+com\mmall\test\TestBase.class
